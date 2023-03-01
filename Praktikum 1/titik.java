@@ -1,3 +1,9 @@
+/* 
+ Nama : Dzamar Maulana Ibrahim
+ NIM : 24060119120033
+ PBO Lab B
+*/
+
 class Titik{
 	double absis;
 	double ordinat;
