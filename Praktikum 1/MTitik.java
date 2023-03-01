@@ -1,3 +1,9 @@
+/* 
+ Nama : Dzamar Maulana Ibrahim
+ NIM : 24060119120033
+ PBO Lab B
+*/
+
 class MTitik {
 	public static void main(String[]args)
 	{
