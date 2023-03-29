@@ -16,8 +16,8 @@ class TimSepakbola {
 
   // TimSepakbola(nama: string)
   // TODO: Create an overloading constructor below this comment
-  static String nama(String TIM1, String TIM2){
-	  return
+  static String nama(String TIM 1, String TIM 2){
+	  
   }
 
   // TODO: Fix the method below
